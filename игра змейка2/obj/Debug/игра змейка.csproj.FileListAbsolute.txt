@@ -1,0 +1,18 @@
+C:\Users\Алена\source\repos\игра змейка\игра змейка\obj\Debug\игра змейка.csproj.AssemblyReference.cache
+C:\Users\Алена\source\repos\игра змейка\игра змейка\obj\Debug\игра змейка.csproj.SuggestedBindingRedirects.cache
+C:\Users\Алена\source\repos\игра змейка\игра змейка\obj\Debug\игра_змейка.Form1.resources
+C:\Users\Алена\source\repos\игра змейка\игра змейка\obj\Debug\игра_змейка.Properties.Resources.resources
+C:\Users\Алена\source\repos\игра змейка\игра змейка\obj\Debug\игра змейка.csproj.GenerateResource.cache
+C:\Users\Алена\source\repos\игра змейка\игра змейка\obj\Debug\игра змейка.csproj.CoreCompileInputs.cache
+C:\Users\Алена\source\repos\игра змейка\игра змейка\bin\Debug\игра змейка.exe.config
+C:\Users\Алена\source\repos\игра змейка\игра змейка\bin\Debug\игра змейка.exe
+C:\Users\Алена\source\repos\игра змейка\игра змейка\bin\Debug\игра змейка.pdb
+C:\Users\Алена\source\repos\игра змейка\игра змейка\obj\Debug\игра змейка.exe
+C:\Users\Алена\source\repos\игра змейка\игра змейка\obj\Debug\игра змейка.pdb
+C:\Users\Алена\Desktop\игра змейка\игра змейка\obj\Debug\игра змейка.csproj.AssemblyReference.cache
+C:\Users\Алена\Desktop\игра змейка\игра змейка\obj\Debug\игра змейка.csproj.SuggestedBindingRedirects.cache
+C:\Users\Алена\Desktop\игра змейка\игра змейка\obj\Debug\игра змейка.exe
+C:\Users\Алена\Desktop\игра змейка\игра змейка\obj\Debug\игра змейка.pdb
+C:\Users\Алена\Desktop\игра змейка\игра змейка\obj\Debug\игра_змейка.Properties.Resources.resources
+C:\Users\Алена\Desktop\игра змейка\игра змейка\obj\Debug\игра змейка.csproj.GenerateResource.cache
+C:\Users\Алена\Desktop\игра змейка\игра змейка\obj\Debug\игра змейка.csproj.CoreCompileInputs.cache
